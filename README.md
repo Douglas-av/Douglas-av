@@ -1,7 +1,6 @@
 ### Olar! 👋
 
-- 🔭 Estou trabalhando com back-end (Python e C#)
-- 🌱 Estou vendo conteudos para ciencia de dados
+- 🔭 Estou trabalhando com back-end (Kotlin/AWS/Microserviços)
 - 📫 Contate-me pelo email: douglas-av@hotmail.com (sim, é hotmail)
 - ⚡ Fun fact: Tibiano raiz (8.1)
 - ❓ ❔ Pois é, aqui ainda está bem empoeirado, mas logo logo isto irá mudar!
